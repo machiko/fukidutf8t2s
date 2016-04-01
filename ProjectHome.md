@@ -1,0 +1,1 @@
+DIRECT interconversion between traditional Chinese utf8 character and simplified Chinese utf8 character in php
